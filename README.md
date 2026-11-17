@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tejas H T! 👋
 
-<!--
-**tejasgowda2029-alt/tejasgowda2029-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AIML Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence and Machine Learning student passionate about building intelligent solutions and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing Engineering in Artificial Intelligence and Machine Learning.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Learning Data Structures, Algorithms, and Software Development.
+- 🌱 Continuously exploring new technologies and building projects.
+
+### 💻 Technical Skills
+
+- **Programming:** Python, C, Java (Fundamentals)
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL
+- **Core Interests:** Artificial Intelligence, Machine Learning
+
+### 🚀 Projects
+
+- **Personal Portfolio Website** – My professional portfolio showcasing my skills and projects.
+- **Online Quiz Management System** – A Python and SQLite-based quiz management application.
+
+### 🌐 Connect With Me
+
+- **Portfolio:** https://tejasgowda2029-alt.github.io/my-portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/tejas-h-t-297b4837b/
+- **GitHub:** https://github.com/tejasgowda2029-alt
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
